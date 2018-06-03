@@ -1,4 +1,4 @@
-# Udacity Full Stack Web Developer Nanodegree Favorite Movies Backend Project
+# Udacity Full Stack Web Developer Nanodegree | Favorite Movies Backend Project
 
 ## Description
 
