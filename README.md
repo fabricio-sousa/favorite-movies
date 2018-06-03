@@ -8,7 +8,7 @@ You will write code to store a list of your favorite movies, including box art i
 
 HTML5 and CSS, Python 2.7, Javascript.
 
-## HOWTO
+## Installation and How To Run
 
 1. Clone or download repo.
 2. In the repo directory, run index.html.
