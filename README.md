@@ -1,6 +1,6 @@
 # Udacity Full Stack Web Developer Nanodegree | Favorite Movies Backend Project
 
-### Developer: Fabricio Sousa
+#### Developer: Fabricio Sousa
 
 ## Description
 
